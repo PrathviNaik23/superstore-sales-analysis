@@ -181,4 +181,4 @@ The dashboard allows users to explore sales performance across different regions
 
 ### Dashboard Preview
 
-![Superstore Sales & Profit Dashboard](dashboard.png)
+![Superstore Sales & Profit Dashboard](./dashboard.png)
