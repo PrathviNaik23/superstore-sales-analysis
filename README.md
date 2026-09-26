@@ -178,3 +178,7 @@ The interactive Excel dashboard provides a consolidated view of Superstore sales
 - Interactive Year and Region slicers
 
 The dashboard allows users to explore sales performance across different regions, customer segments, categories, time periods, and shipping modes.
+
+### Dashboard Preview
+
+![Superstore Sales & Profit Dashboard](dashboard.png)
