@@ -2,6 +2,10 @@
 
 An Excel-based Data Analytics project analyzing sales, profit, customers, orders, product categories, regions, and segments using the Superstore dataset.
 
+### Dashboard Preview
+
+<img src="./dashboard.png" alt="Superstore Sales Dashboard">
+
 ## 📊 Project Overview
 
 This project focuses on analyzing Superstore sales data using Microsoft Excel to identify sales trends, profitability patterns, regional performance, customer segments, and shipping preferences.
@@ -179,5 +183,4 @@ The interactive Excel dashboard provides a consolidated view of Superstore sales
 
 The dashboard allows users to explore sales performance across different regions, customer segments, categories, time periods, and shipping modes.
 
-### Dashboard Preview
-<img src="./dashboard.png" alt="Superstore Sales Dashboard">
+
