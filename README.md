@@ -180,4 +180,4 @@ The interactive Excel dashboard provides a consolidated view of Superstore sales
 The dashboard allows users to explore sales performance across different regions, customer segments, categories, time periods, and shipping modes.
 
 ### Dashboard Preview
-<img src="https://raw.githubusercontent.com/PrathviNaik23/superstore-sales-analysis/main/dashboard.png" alt="Superstore Sales Dashboard" width="100%">
+<img src="./dashboard.png" alt="Superstore Sales Dashboard">
