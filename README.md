@@ -96,30 +96,11 @@ The interactive Excel dashboard contains:
 - December recorded the highest monthly profit across the combined four-year period.
 
 ## 📂 Project Structure
-
-```text
 superstore-sales-analysis/
-│
-├── README.md
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
 ├── excel/
 │   └── Superstore_Sales_Analysis.xlsx
-│
-├── dashboard/
-│   └── dashboard_preview.png
-│
-├── documentation/
-│   ├── data_dictionary.md
-│   └── project_insights.md
-│
-└── screenshots/
-    ├── dashboard.png
-    ├── sales_analysis.png
-    └── profit_analysis.png
+├── README.md
+└── dashboard.png
 
 ## 🎯 Business Questions
 
